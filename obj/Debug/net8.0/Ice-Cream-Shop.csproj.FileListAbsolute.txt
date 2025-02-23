@@ -1,0 +1,15 @@
+C:\Users\stefa\Desktop\Ice-Cream-Shop\bin\Debug\net8.0\Ice-Cream-Shop.exe
+C:\Users\stefa\Desktop\Ice-Cream-Shop\bin\Debug\net8.0\Ice-Cream-Shop.deps.json
+C:\Users\stefa\Desktop\Ice-Cream-Shop\bin\Debug\net8.0\Ice-Cream-Shop.runtimeconfig.json
+C:\Users\stefa\Desktop\Ice-Cream-Shop\bin\Debug\net8.0\Ice-Cream-Shop.dll
+C:\Users\stefa\Desktop\Ice-Cream-Shop\bin\Debug\net8.0\Ice-Cream-Shop.pdb
+C:\Users\stefa\Desktop\Ice-Cream-Shop\obj\Debug\net8.0\Ice-Cream-Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefa\Desktop\Ice-Cream-Shop\obj\Debug\net8.0\Ice-Cream-Shop.AssemblyInfoInputs.cache
+C:\Users\stefa\Desktop\Ice-Cream-Shop\obj\Debug\net8.0\Ice-Cream-Shop.AssemblyInfo.cs
+C:\Users\stefa\Desktop\Ice-Cream-Shop\obj\Debug\net8.0\Ice-Cream-Shop.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Desktop\Ice-Cream-Shop\obj\Debug\net8.0\Ice-Cream-Shop.sourcelink.json
+C:\Users\stefa\Desktop\Ice-Cream-Shop\obj\Debug\net8.0\Ice-Cream-Shop.dll
+C:\Users\stefa\Desktop\Ice-Cream-Shop\obj\Debug\net8.0\refint\Ice-Cream-Shop.dll
+C:\Users\stefa\Desktop\Ice-Cream-Shop\obj\Debug\net8.0\Ice-Cream-Shop.pdb
+C:\Users\stefa\Desktop\Ice-Cream-Shop\obj\Debug\net8.0\Ice-Cream-Shop.genruntimeconfig.cache
+C:\Users\stefa\Desktop\Ice-Cream-Shop\obj\Debug\net8.0\ref\Ice-Cream-Shop.dll
